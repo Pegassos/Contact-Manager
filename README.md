@@ -3,7 +3,7 @@ React app where one can add/delete contacts.
 
 
 
-## running production build using express server
-in the server directory, run 
+## Running production build using express server
+in the build directory:
 ### `npm i express`
 ### `node index.js`
