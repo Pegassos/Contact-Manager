@@ -13,5 +13,5 @@ npm install
 in the build directory:
 ```
 npm i express
-node index.js
+node index.js 
 ```
